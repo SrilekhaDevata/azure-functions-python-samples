@@ -38,6 +38,8 @@ Suppose you installed Python 3.5.4 x64:
 | ScriptProcessor | D:\home\python354x64\python.exe | 
 | Arguments | D:\home\python354x64\wfastcgi.py | 
 
+jksjhkhkhkhkjh
+jhgjkh
 ## 4. Test the python version being used in Function App
 Add a new function and add sample code like the following to see which Python version is being used in the Function App:
 ```
